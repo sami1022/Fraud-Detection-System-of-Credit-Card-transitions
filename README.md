@@ -75,6 +75,10 @@ Fraud-Detection-System/
 ├── requirements.txt
 └── .gitignore
 
+## 🚀 How to Run
+1. Clone the repository
+2. Install dependencies
+3. Run the notebook cell by cell
 
 
 ## Conclusion
